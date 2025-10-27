@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+pdfplumber
+pybloom-live
+suffix-trees
+sentence-transformers
+torch
+tqdm
+ddgs
+beautifulsoup4
+newspaper3k
+tldextract
+lxml[html_clean]
+nltk
